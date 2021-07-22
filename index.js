@@ -39,7 +39,7 @@ client.aliases = new discord.Collection();
 const fs = require('fs');
 kingman();
 const colors = require("colors");
-const TOKEN_BOT = process.env['ME_TOKEN']
+const TOKEN_BOT = process.env['ODYzNzc1MTQ4ODY3OTc3MjM3.YOrzSw.mgQVmZbVQS-74fexo3TzIQfxoFc']
 const config = require('./me-config.json');
 const PREFIX = config.prefix
 client.on("error", console.error);
